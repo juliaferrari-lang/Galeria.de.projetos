@@ -1,0 +1,19 @@
+body {
+    background-color: #f0f4f8;
+}
+
+.galeria {
+    display: flex;
+    gap: 20px;
+}
+
+.card {
+    width: 300px;
+    padding: 15px;
+    border: 1px solid #ccc;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 8px;
+}
